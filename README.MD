@@ -1,0 +1,1 @@
+An example xtensor-python directory.  Mostly just the cookiecutter the docs provide, but I am playing around with the passing of arrays back and forth. Very easy.
